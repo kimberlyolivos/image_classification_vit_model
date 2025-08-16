@@ -2,9 +2,10 @@
 
 #### Overview
 
-This repository contains two related image classification projects using Hugging Face’s Vision Transformers (ViT):
-- Traffic Light Classification – distinguishing between stop and non-stop traffic lights.
-- Crypto Beans Classification – distinguishing between three types of beans: Healthy Bean, Rust Bean, and Angular Leaf Spot
+This repository features two image classification projects using Hugging Face’s Vision Transformers (ViT):
+
+- Traffic Light Classification: a binary task to detect the presence (1) or absence (0) of a stop sign.
+- Crypto Beans Classification: a multi-class task to distinguish between Healthy Bean, Rust Bean, and Angular Leaf Spot.
 
 Both projects demonstrate the use of ViT models.
 
